@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MX_Alps_Hybrid")(type "KiCad")(uri "${KIPRJMOD}/Lib/MX_Alps_Hybrid.pretty")(options "")(descr ""))
+  (lib (name "XIAO_PCB")(type "KiCad")(uri "${KIPRJMOD}/Lib/Seeeduino-xiao-rp2040-KiCAD-Library/XIAO_PCB.pretty")(options "")(descr ""))
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "${KIPRJMOD}/Lib/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "keyswitches")(type "KiCad")(uri "${KIPRJMOD}/Lib/keyswitches.pretty")(options "")(descr ""))
+)
