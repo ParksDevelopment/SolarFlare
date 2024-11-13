@@ -4,4 +4,5 @@
   (lib (name "XIAO_PCB")(type "KiCad")(uri "${KIPRJMOD}/Lib/Seeeduino-xiao-rp2040-KiCAD-Library/XIAO_PCB.pretty")(options "")(descr ""))
   (lib (name "Keebio-Parts")(type "KiCad")(uri "${KIPRJMOD}/Lib/Keebio-Parts.pretty")(options "")(descr ""))
   (lib (name "keyswitches")(type "KiCad")(uri "${KIPRJMOD}/Lib/keyswitches.pretty")(options "")(descr ""))
+  (lib (name "seeed")(type "KiCad")(uri "${KIPRJMOD}/Lib/Seeeduino XIAO KICAD/seeed.pretty")(options "")(descr ""))
 )
