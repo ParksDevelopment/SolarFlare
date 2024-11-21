@@ -466,7 +466,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Production/Gerber/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "../SolarFlareModels/SolarFlarePCB.step",

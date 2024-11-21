@@ -5,4 +5,5 @@
   (lib (name "Keebio-Parts")(type "KiCad")(uri "${KIPRJMOD}/Lib/Keebio-Parts.pretty")(options "")(descr ""))
   (lib (name "keyswitches")(type "KiCad")(uri "${KIPRJMOD}/Lib/keyswitches.pretty")(options "")(descr ""))
   (lib (name "seeed")(type "KiCad")(uri "${KIPRJMOD}/Lib/Seeeduino XIAO KICAD/seeed.pretty")(options "")(descr ""))
+  (lib (name "images")(type "KiCad")(uri "${KIPRJMOD}/Lib/images.pretty")(options "")(descr ""))
 )
